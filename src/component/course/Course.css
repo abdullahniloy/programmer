@@ -1,0 +1,15 @@
+.course-container{
+    display: flex;
+    background-color:lightcoral;
+   
+}
+
+.subject-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-right: 1px solid blue;
+    background-color: black
+
+   
+}

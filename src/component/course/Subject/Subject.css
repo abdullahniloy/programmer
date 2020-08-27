@@ -1,0 +1,40 @@
+.subject-img{
+    display:flex;
+    border-bottom: 1px solid yellow;
+    margin-bottom:5px;
+    margin-right:10px;
+    padding-bottom:10px;
+    background-color:pink;
+    border-radius:5px;
+    padding-left:10px;
+   
+}
+
+.subject-name{
+    color:darkblue;
+    padding-left:10px;
+   
+}
+.price{
+    color:black;
+    padding-left:10px;
+}
+
+.main-btn{
+    background-color:goldenrod;
+    width:150px;
+    height: 30px;
+    border:1px solid black;
+    border-radius:5px;
+    padding-left:10px;
+
+}
+.main-btn:hover{
+    color:rebeccapurple;
+}
+
+.main-btn{
+
+    cursor: pointer;
+}
+
